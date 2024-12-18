@@ -3,3 +3,4 @@ secret:
   ignored-paths:
     - "assets/search.ts"
     - "data/*.yml"
+
